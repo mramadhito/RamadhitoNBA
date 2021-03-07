@@ -1,0 +1,16 @@
+Package: RamadhitoNBA
+Title: Custom functions for the NBA Season Stats dataset
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Garda",
+           family = "Ramadhito",
+           role = c("aut", "cre"),
+           email = "mr3536@columbia.edu")
+Description: The package contains three functions tailored for the NBA Season Stats dataset, including KobePER(), oldestPlayer(), and corrMatrix().
+License: NA
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
